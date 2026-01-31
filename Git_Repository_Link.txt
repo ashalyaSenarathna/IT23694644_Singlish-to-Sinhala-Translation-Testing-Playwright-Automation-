@@ -11,7 +11,7 @@ Example: https://github.com/yourusername/swift-translator-tests
 
 1. Download and install GitHub Desktop from: https://desktop.github.com/
 2. Open GitHub Desktop and sign in to your GitHub account
-3. Click "File"  "Add local repository"
+3. Click "File" → "Add local repository"
 4. Navigate to this project folder
 5. Click "Create repository" if it's not already a git repository
 6. Enter repository name: "swift-translator-tests"
@@ -40,7 +40,7 @@ Example: https://github.com/yourusername/swift-translator-tests
 
 5. Create a new repository on GitHub:
    - Go to https://github.com
-   - Click the "+" icon  "New repository"
+   - Click the "+" icon → "New repository"
    - Repository name: "swift-translator-tests"
    - Description: "Automated testing suite for SwiftTranslator using Playwright"
    - Make it PUBLIC
@@ -64,16 +64,16 @@ REPOSITORY_URL: https://github.com/ashalyaSenarathna/IT23694644_Singlish-to-Sinh
 ## Verification Checklist
 
 Before submission, verify:
--  Repository is PUBLIC (not private)
--  All files are uploaded:
+- ✓ Repository is PUBLIC (not private)
+- ✓ All files are uploaded:
   - swift-translator-tests.spec.js
   - playwright.config.js
   - package.json
   - README.md
   - .gitignore
--  README.md shows correct installation instructions
--  Repository can be cloned by others
--  No personal information or sensitive data in commits
+- ✓ README.md shows correct installation instructions
+- ✓ Repository can be cloned by others
+- ✓ No personal information or sensitive data in commits
 
 ## Testing Repository Access
 
